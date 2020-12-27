@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Howdy, I’m Luigi. I’m a Technical Lead at Hellios Technology Solution living in Dublin, Ireland. 
+I am a fan of web development, innovation, and technology. I’m also interested in Finance. 
 
 ### More Information
 
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+https://about.me/luigivargas
